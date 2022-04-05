@@ -76,6 +76,8 @@ The recruitment task consists of 3 steps
 
 ⚠️We don't insist on fancy styling for the table, but anything else than the raw layout will be appreciated
 
+⚠️We will check aspects like code readability, scalability and error handling
 
+⏳ Don't hurry up! Take as much time as you need
 
 Good luck ! 🔥
