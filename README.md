@@ -65,6 +65,12 @@ The recruitment task consists of 3 steps
 
 **Name input** | **Username input** | **Email input** | **Address input** | **Phone Input**	| **Company Input** | **SUBMIT BUTTON**
 
+---
+
+
+
+
+
 
 ⚠️You have a free reign in terms of the architecture - creating controllers and models will be a huge plus
 
