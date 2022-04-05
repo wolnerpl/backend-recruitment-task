@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Backend recruitment task</title>
+    <title>Backend/Full-stack recruitment task</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 

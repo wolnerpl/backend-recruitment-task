@@ -1,4 +1,4 @@
-# Backend recruitment task
+# Backend/Full-stack recruitment task
 
 ----
 
@@ -30,7 +30,7 @@ We will kindly ask you to take a look at this super simple recruitment task that
 ```
 
 - Your entry file for PHP is `main.php` - feel free to organize other PHP files just the way you like it
-- Your datasource is `users.json` file
+- Your datasource is `users.json` file - all changes (see points 2 and 3) have to be saved
 - For scripts and styles, use the `styles.scss` and `script.js` files - those are not necessary, but we will highly appreciate it 
 
 
