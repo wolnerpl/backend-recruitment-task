@@ -80,4 +80,7 @@ The recruitment task consists of 3 steps
 
 ⏳ Don't hurry up! Take as much time as you need
 
+
+⚠️The easiest way to start is to fork this repository, but feel free to use any other method
+
 Good luck ! 🔥
