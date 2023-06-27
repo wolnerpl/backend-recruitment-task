@@ -26,9 +26,9 @@
                     <td><?php echo $user['phone']; ?></td>
                     <td><?php echo $user['company']['name']; ?></td>
                     <td>
-                        <form action="action/remove.php">
+                        <form action="action/remove-user.php">
                             <input type="hidden" name="id" value="<?php echo $user['id']; ?>">
-                            <button type="submit" class="btn btn-danger" data-rel="remove">Remove</button>
+                            <button type="submit" class="btn btn-danger">Remove</button>
                         </form>
                     </td>
                 </tr>
