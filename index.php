@@ -28,7 +28,7 @@
                     <td>
                         <form action="action/remove-user.php">
                             <input type="hidden" name="id" value="<?php echo $user['id']; ?>">
-                            <button type="submit" class="btn btn-danger">Remove</button>
+                            <button type="submit" class="btn btn-danger" data-rel="remove">Remove</button>
                         </form>
                     </td>
                 </tr>
