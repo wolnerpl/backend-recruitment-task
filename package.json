@@ -1,0 +1,14 @@
+{
+  "name": "backend-recruitment-task",
+  "version": "1.0.0",
+  "description": "Gravity Global recruitment task",
+  "author": "Jacek Wolner",
+  "devDependencies": {
+    "bootstrap": "^5.3.0",
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^9.0.0"
+  }
+}
